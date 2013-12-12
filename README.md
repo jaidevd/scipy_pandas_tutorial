@@ -1,4 +1,9 @@
-scipy_pandas_tutorial
-=====================
+Most of these notebooks contain tutorial exercises that require only Pandas
+(http://pandas.pydata.org) and it's dependencies (NumPy, SciPy, Matplotlib).
 
-Repository containing notebooks for my Pandas tutorial at SciPy India 2013
+The geopandas demo, however, requires geopandas
+(http://github.com/kjordahl/geopandas), and it's dependencies are:
+
+* Fiona
+* Shapely
+* Descartes
