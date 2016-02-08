@@ -7,3 +7,6 @@ The geopandas demo, however, requires geopandas
 * Fiona
 * Shapely
 * Descartes
+
+You can interactively play with the notebooks here:
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/jaidevd/scipy_pandas_tutorial)
